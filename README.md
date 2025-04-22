@@ -1,4 +1,4 @@
-# cse110-github-pages
+# CSE 110 | Lab Week 1 - VSCode, Markdown, and Git Part 1
 
 ## Fabio's User Page
 
